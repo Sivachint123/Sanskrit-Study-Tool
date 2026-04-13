@@ -18,7 +18,7 @@ An interactive offline Sanskrit study application. No installation, no server �
 
 ### Helpful Notes
 Structured study notes covering:
-- Varnamala — Svarah, Vyanjannni, Ayogavahaḥ
+- Varnamala — Svaraha, Vyanjannni, Ayogavahah
 - Word Structure — Suptiganta Padam, Sarvanamani, Vibhakti overview
 - Lakara — Parasmaipada & Atmanepada Examples
 - Sandhi rules
