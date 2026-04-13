@@ -37,4 +37,4 @@ Structured study notes covering:
 - Shabda data compiled from athority sources
 - Helpful Notes from  personal study notes
 
-Reach out to siva.chinthalapudi123@gmail.com for any feedback
+
