@@ -10,7 +10,7 @@ An interactive offline Sanskrit study application. No installation, no server �
 - **Quiz** — Multiple-choice quiz drawn from your filtered set. Start / Stop / Reset controls. Score tracked per session.
 - **Progress** — Visual progress bars showing how many roots you have mastered.
 
-### Shabda Mañjarī / Vibhakti (Noun Declension)
+### Shabda / Vibhakti (Noun forms)
 - **Browse** — Filter by Category (ajanta, halanta, sarvanama, sankhya, vishea) and Gender. Full-text search.
 - **Flashcards** — Drill Vibhakti forms with Category, Gender, and search filters. Unlearned toggle. Progress tracking.
 - **Quiz** — Multiple-choice quiz on Vibhakti forms. Start / Stop / Reset controls. Filter by Category and Gender before starting.
@@ -18,7 +18,7 @@ An interactive offline Sanskrit study application. No installation, no server �
 
 ### Helpful Notes
 Structured study notes covering:
-- Varṇamala — Svarah, Vyanjanāni, Ayogavahaḥ
+- Varnamala — Svarah, Vyanjannni, Ayogavahaḥ
 - Word Structure — Suptiganta Padam, Sarvanamani, Vibhakti overview
 - Lakara — Parasmaipada & Atmanepada Examples
 - Sandhi rules
