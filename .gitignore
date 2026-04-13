@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Python scripts (dev tools, not part of app)
+*.py
+*.pyc
+__pycache__/
+
+# Large source/data files (not needed to run the app)
+*.pdf
+*.txt
+*.zip
+*.HEIC
+
+# Image folders (source material)
+Notes/
+Geervani pages/
+converted_jpgs/
+
+# Temp output
+*_out.txt
