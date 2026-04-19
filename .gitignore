@@ -9,10 +9,16 @@ desktop.ini
 *.suo
 *.user
 
-# Python scripts (dev tools, not part of app)
-*.py
+# Python cache (never needed)
 *.pyc
 __pycache__/
+
+# Temp fix/utility scripts (not part of app)
+fix*.py
+check*.py
+extract*.py
+bigfix.py
+fc*.py
 
 # Large source/data files (not needed to run the app)
 *.pdf

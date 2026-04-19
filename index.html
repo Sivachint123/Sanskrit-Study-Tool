@@ -331,6 +331,7 @@
         <option value="dhatu" selected>&#x1F331; &#2343;&#2366;&#2340;&#2369; Dhatu</option>
         <option value="vibhakti">&#x1FAB7; &#2357;&#2367;&#2349;&#2325;&#2381;&#2340;&#2367; Vibhakti</option>
         <option value="notes">&#x1F4DD; Helpful Notes</option>
+        <option value="vocab">&#x1F4DA; Vocabulary Study</option>
       </select>
     </div>
   </div>
@@ -550,6 +551,7 @@
         <option value="dhatu">&#x1F331; &#2343;&#2366;&#2340;&#2369; Dhatu</option>
         <option value="vibhakti" selected>&#x1FAB7; &#2357;&#2367;&#2349;&#2325;&#2381;&#2340;&#2367; Vibhakti</option>
         <option value="notes">&#x1F4DD; Helpful Notes</option>
+        <option value="vocab">&#x1F4DA; Vocabulary Study</option>
       </select>
     </div>
   </div>
@@ -817,6 +819,7 @@
         <option value="dhatu">&#x1F331; &#2343;&#2366;&#2340;&#2369; Dhatu</option>
         <option value="vibhakti">&#x1FAB7; &#2357;&#2367;&#2349;&#2325;&#2381;&#2340;&#2367; Vibhakti</option>
         <option value="notes" selected>&#x1F4DD; Helpful Notes</option>
+        <option value="vocab">&#x1F4DA; Vocabulary Study</option>
       </select>
     </div>
   </div>
@@ -4360,6 +4363,7 @@ updateCounts();renderBrowse();
 <script>
 /* App Switcher */
 function switchApp(mode) {
+  if (mode === 'vocab') { window.location.href = 'vocab-study.html'; return; }
   document.getElementById('app-dhatu').style.display = (mode === 'dhatu') ? 'block' : 'none';
   document.getElementById('app-vibhakti').style.display = (mode === 'vibhakti') ? 'block' : 'none';
   document.getElementById('app-notes').style.display = (mode === 'notes') ? 'block' : 'none';
